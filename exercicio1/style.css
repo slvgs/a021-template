@@ -1,0 +1,18 @@
+#titulo-importante{
+    background-color: yellowgreen;
+    color:white
+}
+.sub-titulo{
+    background-color: green;
+   
+}
+
+.titulo-secao{
+    background-color: rgb(42, 156, 42);
+}
+.texto-generico{
+    background-color: aquamarine;
+}
+.titulo-pouco-importante{
+    background-color: rgb(223, 236, 236);
+}
